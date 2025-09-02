@@ -1,6 +1,3 @@
-# mat.py
-# (C) Jeff Orchard, University of Waterloo, 2025
-
 import numpy as np
 import copy
 
